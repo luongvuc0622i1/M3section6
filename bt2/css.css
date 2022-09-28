@@ -1,0 +1,13 @@
+body {
+    padding: 15px;
+    text-align: justify;
+}
+
+a, small {
+    color: #24077e;
+    text-decoration: none;
+}
+
+p {
+    text-indent: 50px;
+}
